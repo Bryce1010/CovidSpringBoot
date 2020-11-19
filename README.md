@@ -19,7 +19,7 @@ At first, git clone this repo.
 
 Then, start running springboot project.
 
-Lastly, access `127.0.0.1:8080/detect' , upload the `./images/C0K_PA11_SE8.nii.gz'. 
+Lastly, access `127.0.0.1:8080/detect` , upload the `./images/C0K_PA11_SE8.nii.gz`. 
 
 
 
